@@ -1,9 +1,9 @@
-package br.com.builder.spolleto.model.builder;
+package br.com.builder.spolleto.fluent.model.builder;
 
 import java.util.List;
 
-import br.com.builder.spolleto.model.Pasta;
-import br.com.builder.spolleto.model.Size;
+import br.com.builder.spolleto.fluent.model.Pasta;
+import br.com.builder.spolleto.fluent.model.Size;
 
 public class PastaBuilder {
 

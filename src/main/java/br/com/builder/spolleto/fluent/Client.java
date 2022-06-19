@@ -1,10 +1,10 @@
-package br.com.builder.spolleto;
+package br.com.builder.spolleto.fluent;
 
 import java.util.Arrays;
 
-import br.com.builder.spolleto.model.Pasta;
-import br.com.builder.spolleto.model.Size;
-import br.com.builder.spolleto.model.builder.PastaBuilder;
+import br.com.builder.spolleto.fluent.model.Pasta;
+import br.com.builder.spolleto.fluent.model.Size;
+import br.com.builder.spolleto.fluent.model.builder.PastaBuilder;
 
 public class Client {
 	
