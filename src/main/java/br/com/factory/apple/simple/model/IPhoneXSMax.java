@@ -1,4 +1,4 @@
-package br.com.factory.apple.model;
+package br.com.factory.apple.simple.model;
 
 public class IPhoneXSMax extends IPhone {
 
